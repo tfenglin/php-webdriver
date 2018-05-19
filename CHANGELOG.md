@@ -4,6 +4,7 @@ This project versioning adheres to [Semantic Versioning](http://semver.org/).
 ## Unreleased
 ### Added
 - `WebDriverCheckboxes` and `WebDriverRadios` helper classes to simplify interaction with checkboxes and radio buttons.
+- Support for local storage and session storage via the new `WebDriver::storage()` method.
 
 ## 1.6.0 - 2018-05-16
 ### Added
